@@ -1,6 +1,6 @@
 {
   "name": "ldr-stepper",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Break an LDraw (LDR) file into steps",
   "license": "MIT",
   "repository": "https://github.com/boneskull/ldr-stepper.git",
