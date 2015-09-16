@@ -10,9 +10,13 @@ It works by sorting on the coordinate of each piece (*x*, *y*, or *z*-axis), the
 
 ## Install
 
-```shell
-$ npm install -g ldr-stepper
-```
+1.  Install [NodeJS](https://nodejs.org) v0.10 or greater.
+
+2.  Install globally with `npm`:
+
+  ```shell
+  $ npm install -g ldr-stepper
+  ```
 
 ## Usage
 
