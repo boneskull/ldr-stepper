@@ -79,6 +79,12 @@ var argv = yargs
       base = path.basename(filepath);
       console.warn('WARNING: "%s" may not be an LDR file', base);
     }
+
+    if (path.resolve(filepath) === path.resolve(args.output) && !args.force) {
+      throw new Error('Refusing to overwrite ' + filepath + '.  Use --force ' +
+        'if you really want to do this');
+    }
+
     return true;
   })
   .argv;
