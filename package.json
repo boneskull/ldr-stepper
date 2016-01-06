@@ -28,7 +28,7 @@
     "ldraw"
   ],
   "dependencies": {
-    "bluebird": "^3.0.1",
+    "bluebird": "^3.1.1",
     "graceful-fs": "^4.1.2",
     "highland": "^2.5.1",
     "lodash.defaults": "^3.1.2",
