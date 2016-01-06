@@ -2,7 +2,6 @@ options:
   mask: '**/*.spec.js'
   require:
     - test/fixture
-  scriptPath: node_modules/istanbul-harmony/lib/cli.js
   reportFormats:
     - lcov
     - text-summary

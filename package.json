@@ -47,7 +47,7 @@
     "grunt-dev-update": "^1.4.0",
     "grunt-eslint": "^17.0.0",
     "grunt-mocha-istanbul": "^3.0.0",
-    "istanbul-harmony": "^0.3.16",
+    "istanbul": "^0.4.1",
     "jit-grunt": "^0.9.1",
     "load-grunt-config": "^0.19.1",
     "mocha": "^2.2.5",
