@@ -43,15 +43,6 @@ module.exports = function (grunt) {
   }
 
   loadGruntConfig(grunt, {
-    jitGrunt: {
-      staticMappings: {
-        devUpdate: 'grunt-dev-update',
-        'bump-only': 'grunt-bump',
-        'bump-commit': 'grunt-bump',
-        'mocha_istanbul': 'grunt-mocha-istanbul'
-      }
-    },
     data: data
   });
-
 };

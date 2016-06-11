@@ -1,8 +1,6 @@
-mocha_istanbul: test
+mochacli: test
 
 eslint:
-
   - bin/**/*.js
-
   - lib/**/*.js
   - test/**/*.js
