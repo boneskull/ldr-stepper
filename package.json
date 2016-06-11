@@ -50,7 +50,7 @@
     "istanbul": "^0.4.1",
     "jit-grunt": "^0.9.1",
     "load-grunt-config": "^0.19.1",
-    "mocha": "^2.2.5",
+    "mocha": "^2.5.3",
     "sinon": "^1.17.2",
     "sinon-chai": "^2.8.0",
     "time-grunt": "^1.2.1"
