@@ -48,7 +48,7 @@
     "grunt": "^1.0.1",
     "grunt-bump": "^0.8.0",
     "grunt-dev-update": "^2.0.0",
-    "grunt-eslint": "^17.3.2",
+    "grunt-eslint": "^19.0.0",
     "grunt-mocha-cli": "^2.1.0",
     "load-grunt-config": "^0.19.1",
     "mocha": "^2.5.3",
