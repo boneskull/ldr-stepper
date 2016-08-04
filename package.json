@@ -51,7 +51,7 @@
     "grunt-eslint": "^17.3.2",
     "grunt-mocha-cli": "^2.1.0",
     "load-grunt-config": "^0.19.1",
-    "mocha": "^2.5.3",
+    "mocha": "^3.0.1",
     "sinon": "^1.17.2",
     "sinon-chai": "^2.8.0",
     "time-grunt": "^1.2.1"
