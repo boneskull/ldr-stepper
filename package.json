@@ -39,7 +39,7 @@
     "lodash.memoize": "^4.1.0",
     "lodash.omit": "^4.3.0",
     "split": "^1.0.0",
-    "yargs": "^4.7.1"
+    "yargs": "^6.0.0"
   },
   "devDependencies": {
     "chai": "^3.0.0",
