@@ -34,7 +34,7 @@
     "bluebird": "^3.1.1",
     "graceful-fs": "^4.1.2",
     "grunt-cli": "^1.2.0",
-    "highland": "^2.5.1",
+    "highland": "^2.10.1",
     "lodash.defaults": "^4.0.1",
     "lodash.memoize": "^4.1.0",
     "lodash.omit": "^4.3.0",
